@@ -3,7 +3,7 @@ def levitation_quiz
 	#your code here
 	loop do
 	  puts "What is the spell that enacts leviation?"
-	  answer
+	  answer = gets.chomp
 end
 
 
